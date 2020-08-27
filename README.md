@@ -1,2 +1,2 @@
-# Deck
-Simulador de baralho utilizando pilha
+# webFila
+Aplicativo web para controle se senhas e filas.
