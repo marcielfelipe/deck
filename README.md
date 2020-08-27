@@ -1,2 +1,2 @@
-# webFila
-Aplicativo web para controle se senhas e filas.
+# Deck
+Aplicativo web para gerar um baralho em pilha.
